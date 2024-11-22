@@ -28,17 +28,3 @@
 - Performance insights with Google Analytics and Lighthouse
 
 ---
-
-## 🎨 Custom UI Component Libraries
-I have experience building **custom component libraries** tailored to unique design systems, empowering businesses to save costs and accelerate development.
-
----
-
-## 📬 Get in Touch!
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Portfolio:** [Your Portfolio](#)
-- **Email:** [Your Email](#)
-
-Feel free to reach out for collaboration, consultation, or just a friendly chat about tech trends! 🌟
-
----
