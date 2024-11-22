@@ -1,4 +1,4 @@
-# Hi 👋, I'm Divy D.
+# Hi 👋, I'm Divy.
 
 ## 🚀 Full Stack Engineer | Project Consultant | Project Architecture
 
